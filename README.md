@@ -1,2 +1,2 @@
 # Projects
-This repository contains all the projects listed in my project.
+This repository contains all the projects listed in my resume.
