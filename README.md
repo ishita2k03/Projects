@@ -1,5 +1,5 @@
 # Projects
-This repository contains all the projects listed in my resume.
+
 
 
 **EduComTU:** A comprehensive website that caters to the needs of students like providing their course 
