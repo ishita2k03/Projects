@@ -17,4 +17,4 @@ and implementing all the core fundamentals of Computer Graphics.
 The folder contains the c++ source file used to create this application.
 
 **SmartSelect:** It is an intuitive product recommendation system that tailors suggestions based on individual preferences, delivering a
-personalized and seamless shopping experience. The recommendations are based on the past behavior of the user
+personalized and seamless shopping experience. The recommendations are based on the past behavior of the user.
